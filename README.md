@@ -7,6 +7,7 @@ This repository contains two types of files:
 - Extraction.ipynb extracts twitter data using tweepy.
 - Transforming.ipynb extracts the twitter data and transforms the data into a pandas dataframe.
 - Loading.ipynb extracts, transforms twitter data and then loads the data into a new table in a database.
+- ETL.ipynb contains all the functions ready toe extract, transform and load data into local database.
 
 # SQL express backup file
 - Gather Eskom Cleaned Columns.bak is a back up file with existing tables where the extracted tweets will be loaded into.

@@ -9,7 +9,7 @@ This repository contains two types of files:
 - Loading.ipynb extracts, transforms twitter data and then loads the data into a new table in a database.
 
 # SQL express backup file
-- eskom_db is a back up file with existing tables where the extracted tweets will be loaded into.
+- Gather Eskom Cleaned Columns.bak is a back up file with existing tables where the extracted tweets will be loaded into.
 
 # Setup
 - download a notebook.
